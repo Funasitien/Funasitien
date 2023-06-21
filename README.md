@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Moi c'est **Funasitien DreamCloud**. Je suis développeur et créateur numérique :D
-Je trvaille actuellement avec du **Python**, du **HTML/CSS** et du **SkriptLang**
+Moi c'est **Funasitien DreamCloud**. Je suis développeur et créateur numérique :D\n
+Je travaille actuellement avec du **Python**, du **HTML/CSS** et du **SkriptLang**
