@@ -1,6 +1,12 @@
-### Hey 👋
+<p align="center">
+  <img src="https://us-east-1.tixte.net/uploads/cdn.dreamclouds.fr/banner.png" align="center">
+</p>
+<h1 align="center">Funasitien DreamCloud
 
-<!--
+  French Student Developer</h1>
+
+<p> Helloooooow</p>
+  <!--
 **Funasitien/Funasitien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,6 +21,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Moi c'est **Funasitien DreamCloud**. Je suis développeur et créateur numérique :D
-
-Je travaille actuellement avec du **Python**, du **HTML/CSS** et du **SkriptLang**
