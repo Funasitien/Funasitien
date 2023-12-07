@@ -55,5 +55,3 @@
     <img src="https://img.shields.io/static/v1?message=mail&logo=gmail&label=&color=ffffff&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-https://miro.com/welcomeonboard/eEgzVDZ5UzhXYjVLYzVwNmVpZEp6dGlteDNuN0VRVXF4c1lUWVVhQUNsSWVHS1RFTlpXTmliVHZsWDdVcWhjaXwzNDU4NzY0NTcyNDM1MjkzOTU3fDI=?share_link_id=424311854341
