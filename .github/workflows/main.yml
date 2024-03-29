@@ -21,7 +21,7 @@ jobs:
           user: Funasitien
           template: classic
           base: header, activity, community, repositories, metadata
-          config_animated: yes
+          config_animated: base
           config_timezone: Europe/Paris
           plugin_pagespeed: yes
           plugin_pagespeed_url: https://f.dreamclouds.fr
