@@ -54,4 +54,7 @@
   <a href="mailto:funasitien@dreamclouds.fr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=mail&logo=gmail&label=&color=ffffff&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+    <a href="mailto:funasitien@dreamclouds.fr" target="_blank">
+    <img src="https://api.statusbadges.me/badge/playing/574169911782277135?style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
