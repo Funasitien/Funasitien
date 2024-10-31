@@ -1,17 +1,18 @@
-<div align="center">
-  <img height="200" src="https://us-east-1.tixte.net/uploads/cdn.dreamclouds.fr/banner.png"  />
-</div>
+```py
+  _____                 _ _   _            ____                    _____ _           _ 
+ |   __|_ _ ___ ___ ___|_| |_|_|___ ___   |    \ ___ ___ ___ _____|     | |___ _ _ _| |
+ |   __| | |   | .'|_ -| |  _| | -_|   |  |  |  |  _| -_| .'|     |   --| | . | | | . |
+ |__|  |___|_|_|__,|___|_|_| |_|___|_|_|  |____/|_| |___|__,|_|_|_|_____|_|___|___|___|
+    
+```
 
-###
+## 👋 Hello World
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=funasitien&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=funasitien&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+I'm
 
-###
+## 💫 I'm building with...
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -41,20 +42,8 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://twitch.tv/fdreamcloud" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://discord.com/users/574169911782277135" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://instagram.com/fdreamcloud" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:funasitien@dreamclouds.fr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=mail&logo=gmail&label=&color=ffffff&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-    <a href="mailto:funasitien@dreamclouds.fr" target="_blank">
-    <img src="https://api.statusbadges.me/badge/playing/574169911782277135?style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
