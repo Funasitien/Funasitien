@@ -40,10 +40,13 @@ I'm
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
 </div>
 
-###
+## 🪙 Fund my work 
 
 <div align="left">
-  <a href="https://twitch.tv/fdreamcloud" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <a href="https://buymeacoffee.com/funa" target="_blank">
+    <img src="https://github.com/Funasitien/Funasitien/blob/main/bmc-button.png" height="50" alt="buymeacoffe logo"  />
+  </a>
+    <a href="https://ko-fi.com/funasitien" target="_blank">
+    <img src="https://github.com/Funasitien/Funasitien/blob/main/kofi.png" height="50" alt="kofi logo"  />
   </a>
 </div>
