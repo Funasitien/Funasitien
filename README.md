@@ -45,6 +45,7 @@ I'm **Funasitien**, a full stack developer from France ! I'm working on my own h
 - Vaaticon
 - Mokadocs
 - Super Astro
+- Fiches.me & Docuception
 
 *Want to help me?* ⬇️
 
