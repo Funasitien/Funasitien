@@ -8,7 +8,7 @@
 
 ## 👋 Hello World
 
-I'm
+I'm **Funasitien**, a full stack developer from France ! I'm working on my own hosting company - [Vaatigames](https://vaatigames.fr) - and the first minigames minecraft crossplay infrastructure, [DEMOCRAFT](https://democraft.fr)
 
 ## 💫 I'm building with...
 
@@ -39,6 +39,14 @@ I'm
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
 </div>
+
+## 🌈 Open Sources projects
+
+- Vaaticon
+- Mokadocs
+- Super Astro
+
+*Want to help me?* ⬇️
 
 ## 🪙 Fund my work 
 
