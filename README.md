@@ -6,7 +6,7 @@
     
 ```
 
-## 👋 Hello World
+# 👋 Hi Everyone !
 
 I'm **Funasitien**, a full stack developer from France ! I'm working on my own hosting company - [Vaatigames](https://vaatigames.fr) - and the first minigames minecraft crossplay infrastructure, [DEMOCRAFT](https://democraft.fr)
 
@@ -46,8 +46,6 @@ I'm **Funasitien**, a full stack developer from France ! I'm working on my own h
 - Mokadocs
 - Super Astro
 - Fiches.me & Docuception
-
-*Want to help me?* ⬇️
 
 ## 🪙 Fund my work 
 
