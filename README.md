@@ -6,6 +6,8 @@
     
 ```
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/574169911782277135)](https://discord.com/users/574169911782277135)
+
 # 👋 Hi Everyone !
 
 I'm **Funasitien**, a full stack developer from France ! I'm working on my own hosting company - [Vaatigames](https://vaatigames.fr) - and the first minigames minecraft crossplay infrastructure, [DEMOCRAFT](https://democraft.fr)
